@@ -3,7 +3,7 @@
 - Raíz cuadrada
     * Colocar el registro 18 el número a encontrar la raíz cuadrada
     * Ejecutar el programa
-    * Los resultao se verá en el registro 19, además, en la pantalla se mostrará la respuesta; un número del 0 al 9 si el resultado es < 10 ó el símbolo + si el resultado es > 10
+    * Los resultado se verá en el registro 19, además, en la pantalla se mostrará la respuesta; un número del 0 al 9 si el resultado es < 10 ó el símbolo + si el resultado es > 10
 
 - Letras en la pantalla
     * Poner la configuración del CPUEmulator en fast y no animation
